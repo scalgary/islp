@@ -12,4 +12,5 @@ wheels/
 .ipynb_checkpoints/
 .python-version
 labs/*.csv
+labs/
 
